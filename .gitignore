@@ -1,14 +1,14 @@
 # React frontend
-frontend/SocialApp/node_modules/
-frontend/SocialApp/build/
+# frontend/SocialApp/node_modules/
+# frontend/SocialApp/build/
 frontend/SocialApp/.env
-frontend/SocialApp/.vscode/
+# frontend/SocialApp/.vscode/
 
 # Spring Boot backend
-backend/SocialApp/target/
-backend/SocialApp/.classpath
-backend/SocialApp/.project
-backend/SocialApp/.settings/
+# backend/SocialApp/target/
+# backend/SocialApp/.classpath
+# backend/SocialApp/.project
+# backend/SocialApp/.settings/
 backend/SocialApp/application-*.properties
 
 # General
